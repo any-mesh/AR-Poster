@@ -44,8 +44,8 @@ This project is made by Vaishnavi Singh.
 
 ## Contact
 You can connect with me on:
-[LinkedIn](https://www.linkedin.com/in/vaishnavi-singh-945827257/)
-[Github](https://github.com/Madame-Vaishnavi)
+[LinkedIn](https://www.linkedin.com/in/animesh-kumar-singh-7a5497257/)
+[Github](https://github.com/any-mesh)
 
 We hope this AR experience will not only intrigue you but also inspire you to create such simple yet interactive projects!
 Have a great day ahead.
