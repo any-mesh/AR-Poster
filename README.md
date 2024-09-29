@@ -40,7 +40,7 @@ Follow these steps to set up the project:
 We encourage contributions! If you have ideas on how to improve the AR experience or want to add more features, please fork the repository and submit a pull request.
 
 <hr>
-This project is made by Vaishnavi Singh.
+This project is made by Animesh Kumar Singh.
 
 ## Contact
 You can connect with me on:
